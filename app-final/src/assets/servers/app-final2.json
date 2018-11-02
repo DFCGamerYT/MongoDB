@@ -1,0 +1,106 @@
+{
+  "producto": [
+    {
+      "estado": 2,
+      "nombre": "camiseta",
+      "precio": 50000,
+      "cantidad": 20,
+      "id": 2
+    },
+    {
+      "estado": 2,
+      "nombre": "Zapatos",
+      "precio": 100000,
+      "cantidad": 50,
+      "id": 4
+    },
+    {
+      "estado": 2,
+      "nombre": "Pantalon",
+      "precio": 1000000,
+      "cantidad": 15,
+      "id": 8
+    },
+    {
+      "nombre": "Chaquetas",
+      "precio": 10000,
+      "cantidad": 30,
+      "estado": 1,
+      "id": 9
+    },
+    {
+      "nombre": "Buzo",
+      "precio": 100000,
+      "cantidad": 35,
+      "estado": 1,
+      "id": 11
+    },
+    {
+      "nombre": "Gafas",
+      "precio": 100000,
+      "cantidad": 10,
+      "estado": 1,
+      "id": 12
+    },
+    {
+      "nombre": "Celular",
+      "precio": 40000,
+      "cantidad": 10,
+      "estado": 1,
+      "id": 14
+    },
+    {
+      "nombre": "Carro",
+      "precio": 150000000,
+      "cantidad": 10,
+      "estado": 1,
+      "id": 15
+    },
+    {
+      "nombre": "Moto",
+      "precio": 15000000,
+      "cantidad": 20,
+      "estado": 1,
+      "id": 16
+    },
+    {
+      "nombre": "Medias",
+      "precio": 20000,
+      "cantidad": 5,
+      "estado": 1,
+      "id": 17
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "nickname": "david",
+      "password": "3328"
+    },
+    {
+      "id": 2,
+      "nickname": "fredy",
+      "password": "fredy"
+    },
+    {
+      "id": 3,
+      "nickname": "samuel",
+      "password": "samuel"
+    },
+    {
+      "id": 4,
+      "nickname": "samuel",
+      "password": "samuel"
+    },
+    {
+      "nickname": "nini",
+      "password": "nini",
+      "id": 5
+    },
+    {
+      "nickname": "b4k4ndfcv",
+      "password": "3328",
+      "id": 6
+    }
+  ]
+}
